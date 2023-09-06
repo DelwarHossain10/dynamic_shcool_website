@@ -3,3 +3,5 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/brmqqxmb/public_html/
     -/bin/cp -r * $DEPLOYPATH
+
+
