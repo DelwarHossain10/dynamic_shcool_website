@@ -5,13 +5,13 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Delwar Hossain Bootstrap Portfolio Template - Index</title>
+  <title>Delwar Hossain Portfolio</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="portfolio/assets/img/favicon.png" rel="icon">
-  <link href="portfolio/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="portfolio/assets/img/laravel-and-vue.svg" rel="icon">
+  <link href="portfolio/assets/img/laravel-and-vue.svg" rel="apple-touch-icon">
 
   <!-- Vendor CSS Files -->
   <link href="portfolio/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -37,9 +37,8 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="index.html">Delwar Hossain</a></h1>
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="portfolio/assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <h1 class="logo"><a href="/">Delwar Hossain</a></h1>
+     
 
       <nav id="navbar" class="navbar">
         <ul>
